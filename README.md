@@ -2,7 +2,7 @@
 
 Bot AI Chatbot is an intelligent chatbot application designed to interact with users, providing automated responses and assisting with various tasks. It leverages natural language processing (NLP) to understand and respond to user queries effectively.
 
-## Table of Contents
+## Table of Contents📚
 
 - [Introduction](#introduction)
 - [Features](#features)
@@ -14,11 +14,11 @@ Bot AI Chatbot is an intelligent chatbot application designed to interact with u
 - [Contributing](#contributing)
 - [License](#license)
 
-## Introduction
+## Introduction🚀
 
 The Bot AI Chatbot is a versatile tool that can be integrated into websites, apps, and other platforms to provide automated customer support, answer frequently asked questions, and assist users with various tasks. It uses machine learning and natural language processing to deliver accurate and helpful responses.
 
-## Features
+## Features🛠️
 
 - Real-time interaction with users
 - Natural Language Processing for understanding queries
@@ -27,20 +27,20 @@ The Bot AI Chatbot is a versatile tool that can be integrated into websites, app
 - User authentication and session management
 - Admin panel for monitoring and managing interactions
 
-## Screenshot
+## Screenshot📷
 
 ![Bot AI Chatbot](https://github.com/BoddepallyVenkatesh06/Bot-AI-Chatbot/blob/main/Screenshot_Bot_AI.png)
 
-## Getting Started
+## Getting Started🎯
 
-### Prerequisites
+### Prerequisites📋
 
 Before you begin, ensure you have the following installed on your system:
 - Node.js
 - npm (Node Package Manager)
 - MongoDB (for backend database)
 
-### Installation
+### Installation⚙️
 
 1. Clone the repository:
 
@@ -67,7 +67,7 @@ npm install
 
 ![FlowChart](https://raw.githubusercontent.com/BoddepallyVenkatesh06/Bot-AI-Chatbot/main/Flowchart.webp)
 
-### Usage
+### Usage📈
 
 To start the development servers:
 
@@ -98,7 +98,7 @@ npm run build
 
 2. Serve the built frontend with the backend server.
 
-## Contributing
+## Contributing❤️
 
 Contributions are welcome! If you'd like to contribute to Bot AI Chatbot, please follow these steps:
 
